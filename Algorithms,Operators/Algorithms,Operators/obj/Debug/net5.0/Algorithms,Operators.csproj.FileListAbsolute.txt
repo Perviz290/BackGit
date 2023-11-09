@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.exe
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.deps.json
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.runtimeconfig.json
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.dll
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\bin\Debug\net5.0\Algorithms,Operators.pdb
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.dll
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\refint\Algorithms,Operators.dll
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.pdb
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\Algorithms,Operators.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-project\Algorithms,Operators\Algorithms,Operators\obj\Debug\net5.0\ref\Algorithms,Operators.dll
